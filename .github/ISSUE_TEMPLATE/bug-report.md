@@ -1,7 +1,7 @@
 ---
 name: "\U0001F41E Bug report"
 about: Create a report to help us improve
-title: ''
+title: "[BUG] "
 labels: bug
 assignees: ''
 
@@ -20,4 +20,4 @@ If applicable, add screenshots or videos to help explain your problem.
 Если необходимо, добавьте скриншоты или видео, чтобы лучше продемонстрировать баг.
 
 OS: 
-Game Version: 
+Game Version:
