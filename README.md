@@ -26,7 +26,6 @@
 ## Требования к упрощённой версии
 - Clickteam Fusion 2.5 версии R295.10 и выше
 - Clickteam Fusion 2.5+
-- Discord Rich Presence
 - Font Embed
 - Get Object
 - JSON Object
