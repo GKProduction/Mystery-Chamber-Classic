@@ -16,8 +16,8 @@ Steps to reproduce the behavior.
 Опишите, какие шаги надо выполнить, чтобы повторить баг.
 
 **Screenshots / Скриншоты**
-If applicable, add screenshots or videos to help explain your problem.
-Если необходимо, добавьте скриншоты или видео, чтобы лучше продемонстрировать баг.
+Add screenshots or videos to help explain your problem.
+Lобавьте скриншоты или видео, чтобы лучше продемонстрировать баг.
 
 OS: 
 Game Version:
