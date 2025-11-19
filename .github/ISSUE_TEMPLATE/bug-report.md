@@ -17,7 +17,7 @@ Steps to reproduce the behavior.
 
 **Screenshots / Скриншоты**
 Add screenshots or videos to help explain your problem.
-Lобавьте скриншоты или видео, чтобы лучше продемонстрировать баг.
+Добавьте скриншоты или видео, чтобы лучше продемонстрировать баг.
 
 OS: 
 Game Version:
